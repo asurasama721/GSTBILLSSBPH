@@ -9,19 +9,13 @@
   cursor: pointer;
 }
 
-.table-container{
-  display: flex;
-  justify-content: center;
-  width: 100%;
-  margin-top:60px;
-}
 
 
 
 table {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
-  width: 80%;
+  width: 1500px;
   border: none
 }
 
@@ -146,11 +140,14 @@ th:last-child {
   /* RESPONSIVE */
   
 @media only screen and (max-width: 1000px) {
+  /*
   .table-container{
-    width: 1220px;
-  }
+    overflow: hidden;
+  
+  }*//*
   table{
     width: 1220px;
+    table-layout: fixed;
     margin: 0 20px 0 20px;
-  }
+  }*/
 }
