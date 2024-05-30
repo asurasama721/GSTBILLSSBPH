@@ -1,0 +1,156 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.months{
+  cursor: pointer;
+}
+
+.table-container{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top:60px;
+}
+
+
+
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  border: none
+}
+
+table td, #customers th {
+  padding: 8px;
+}
+
+table tr:nth-child(odd){background-color: #f2f2f2;}
+
+table tr:hover {background-color: #ddd;}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #331763;
+  color: white;
+}
+
+td:first-child,
+th:first-child {
+  border-radius: 10px 0 0 10px;
+}
+td:last-child,
+th:last-child {
+  border-radius: 0 10px 10px 0;
+}
+
+
+.img-link:link {
+  color: rgb(82, 38, 153);
+}
+
+/* visited link */
+.img-link:visited {
+  color: rgb(82, 38, 153);
+}
+
+/* mouse over link */
+.img-link:hover {
+  color: rgb(255, 115, 0);
+}
+
+/* selected link */
+.img-link:active {
+  color: rgb(82, 38, 153);
+}
+
+/*NAVBAR*/
+
+.my-nav{
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  background-color: #000000;
+  display: grid;
+  grid-template-columns: 60px 1fr;
+  grid-template-rows: 45px;
+  align-items: center;
+  justify-items: center;
+}
+#myInput{
+  border-radius: 20px;
+  width: 99%;
+  border: none;
+  height: 30px;
+  justify-self:auto ;
+  padding: 10px;
+  justify-self: start;
+}
+#myInput:focus{
+  border: none;
+  outline: none;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidenav span{
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  .closebtn{
+    text-decoration: none;
+    color: #818181;
+  }
+  
+  .closebtn:hover{
+    color: #f1f1f1;
+  }
+  .sidenav span:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav span {font-size: 18px;}
+  }
+
+  /* RESPONSIVE */
+  
+@media only screen and (max-width: 1000px) {
+  .table-container{
+    width: 1220px;
+  }
+  table{
+    width: 1220px;
+    margin: 0 20px 0 20px;
+  }
+}
