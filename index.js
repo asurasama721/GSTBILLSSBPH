@@ -19,12 +19,13 @@ for(let i = 0; i < company.length;i++){
         html += "<td>" + "Credit Note" + "</td>";
         html += "<td>" + "Total Amt." + "</td>";
         html += "<td>" + "Image" + "</td>";
+        html += "<td>" + "Payment" + "</td>";
         html += "</tr>";
         html += "</thead>";
         for(let i = 0;i < company.length;i++){
           html += "<tr>";
           html += "<td style='text-align:center;'>" + company[i] + "</td>"
-          html += "<td>" + BILLS[company[i]].name.toUpperCase() + "</td>";
+          html += "<td>" + BILLS[company[i]].name/*.toUpperCase()*/ + "</td>";
           html += "<td style='text-align:center;'>" + BILLS[company[i]].gstin + "</td>";
           html += "<td style='text-align:center'>" + BILLS[company[i]].invoice_no + "</td>";
           html += "<td style='text-align:center;'>" + BILLS[company[i]].date + "</td>";
@@ -32,6 +33,7 @@ for(let i = 0; i < company.length;i++){
           html += "<td style='text-align:right'>" + BILLS[company[i]].credit_note + "</td>";
           html += "<td style='text-align:right'>" + BILLS[company[i]].total_amount + "</td>";
           html += "<td style='text-align:center;'>" + `<a href='${BILLS[company[i]].image}' class='img-link'><span class="material-symbols-outlined">image</span></a>` + "</td>";
+          html += "<td style='text-align:center;color:green;font-weight:bolder'>" + BILLS[company[i]].payment_status + "</td>";
           html += "</tr>";        
       }
       showData.innerHTML = html;
