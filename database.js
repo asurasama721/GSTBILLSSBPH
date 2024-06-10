@@ -22,7 +22,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"13000.00",
         "image":"https://drive.google.com/file/d/1Wb20HWN-_iwkRu7utYJuyWxGwmhwGgTb/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "3":{
         "name":"raj sales corporation",
@@ -33,7 +33,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"28792.00",
         "image":"https://drive.google.com/file/d/1WeLpabJtZqMjZDM_zag_p8w8RGdPPkjU/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "4":{
         "name":"devchan decoline",
@@ -55,7 +55,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"9531.00",
         "image":"https://drive.google.com/file/d/1WjFrL7ymVhfxaTMozUCaai9yq_ziqMm7/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },    
     "6":{
         "name":"karar enterprises",
@@ -66,7 +66,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"22050.00",
         "image":"https://drive.google.com/file/d/1Wls2czh73sCTPg__QrcpkPXzxDA71aLi/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "7":{
         "name":"raj trading company",
@@ -77,7 +77,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"1632.00",
         "image":"https://drive.google.com/file/d/1WmLKYXPCVNwR5MCk0ln2_IF7zb9TjX3d/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "8":{
         "name":"raj trading company",
@@ -88,7 +88,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"4785.00",
         "image":"https://drive.google.com/file/d/1Wn4rakn0OyV-S6SNNHoC5B4cEfztTsA1/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "9":{
         "name":"raj trading company",
@@ -99,7 +99,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"3015.00",
         "image":"https://drive.google.com/file/d/1WoQpAMsQBbNga5i_EIF2JPwU6FOJ1cDu/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "10":{
         "name":"raj sales corporation",
@@ -110,7 +110,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"43188.00",
         "image":"https://drive.google.com/file/d/1Wtr9GM59pq8a9cqVSEVTrTb1QWG_7zDN/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "11":{
         "name":"basant agency",
@@ -121,7 +121,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"4690.00",
         "image":"https://drive.google.com/file/d/1WzMXcjsmJQUtT3SfSdo8PQeJmqhnpiWH/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "12":{
         "name":"new laxmi traders",
@@ -132,7 +132,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"5052.00",
         "image":"https://drive.google.com/file/d/1X-j4mKEW7273qObHC96nVABZsEa2Ufhl/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "13":{
         "name":"shyam traders",
@@ -143,7 +143,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"13200.00",
         "image":"https://drive.google.com/file/d/1X0zIKluVHplMIiQ4tqySig8wkw6CONtN/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "14":{
         "name":"devchan decoline",
@@ -176,7 +176,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"14396.00",
         "image":"https://drive.google.com/file/d/1X4grUt2rknEVqAam8MS53eYg8jkX9aRC/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "17":{
         "name":"devchan decoline",
@@ -201,7 +201,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"13600.00",
         "image":"https://drive.google.com/file/d/1XS32cBmVaSXWxg9aJYf_LhEXwGL63xBP/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "19":{
         "name":"karar enterprises",
@@ -212,7 +212,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"4400.00",
         "image":"https://drive.google.com/file/d/1XSJft2kHbJZNc_MY3i4wQzThOwVxjsKt/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "20":{
         "name":"devchan decoline",
@@ -234,7 +234,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"3088.00",
         "image":"https://drive.google.com/file/d/1XX6tVs2tF8BfYibedM-bPzDATyQK_4vj/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "22":{
         "name":"royal enterprises",
@@ -245,7 +245,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"5820.00",
         "image":"https://drive.google.com/file/d/1XZY0Qiec7FXNxKieuGEbosUz2w5JThso/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "23":{
         "name":"basant agency",
@@ -256,7 +256,7 @@ const BILLS = {
         "credit_note":"1518.00",
         "total_amount":"18261.00",
         "image":"https://drive.google.com/file/d/1X_fTwiA80UFtKDB26D-LrPSmQAkZWFxU/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "24":{
         "name":"constro mart",
@@ -267,7 +267,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"2489.00",
         "image":"https://drive.google.com/file/d/1XblulcoRBtALaoekBFYCy_gwK8n-X1Ue/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "25":{
         "name":"rvg facility management services",
@@ -278,7 +278,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"16000.00",
         "image":"https://drive.google.com/file/d/1XcfcH0OIfmf-OZrY99iwz7ESCxkwkrEL/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "26":{
         "name":"welmade locking systems pvt. ltd. pcmc",
@@ -289,7 +289,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"8050.00",
         "image":"https://drive.google.com/file/d/1XdzVeBnUWoTvoJOOMCMycM2RPtAqadZT/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "27":{
         "name":"devchan decoline",
@@ -311,7 +311,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"7000.00",
         "image":"https://drive.google.com/file/d/1Xet_aexetoB2Pb-Wb9D3o1ioULqtejhJ/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "29":{
         "name":"devchan decoline",
@@ -333,7 +333,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"1560.00",
         "image":"https://drive.google.com/file/d/1XgH-0k9ZVDO--TSk_WSwwBQCp8fBPHJI/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "31":{
         "name":"shantaram enterprises",
@@ -344,7 +344,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"4975.00",
         "image":"https://drive.google.com/file/d/1XhMqk5PeFJC6yNGvjCJrmkJ8x-iAMPEp/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "32":{
         "name":"nakoda laminate",
@@ -355,7 +355,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"77000.00",
         "image":"https://drive.google.com/file/d/1Xj9rwllvEH4bhLwXts4ayyVogBjOnJZS/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "33":{
         "name":"raj sales corporation",
@@ -366,7 +366,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"15293.00",
         "image":"https://drive.google.com/file/d/1Xm7nAhg7gU5EmXMqaoj_-ugyUi7HGOIV/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "34":{
         "name":"durva corporation",
@@ -377,7 +377,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"27948.00",
         "image":"https://drive.google.com/file/d/1Xn0lpqonWPZW1FRK-WJDIK80oFgJiYzH/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "35":{
         "name":"devchan decoline",
@@ -399,7 +399,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"250160.00",
         "image":"https://drive.google.com/file/d/1XsPNUml1Q0_K8UcD1G_QcGv-FIxoz5pv/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "37":{
         "name":"devchan decoline",
@@ -421,7 +421,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"9600.00",
         "image":"https://drive.google.com/file/d/1XyfoPcWICc4tirhlO6v8WnMDMUWS3r8F/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "39":{
         "name":"basant agency",
@@ -432,7 +432,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"9380.00",
         "image":"https://drive.google.com/file/d/1XzQgliJmH7lbF1ZoY7OgFiKR1Rw6UKyC/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "40":{
         "name":"devchan decoline",
@@ -454,7 +454,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"7250.00",
         "image":"https://drive.google.com/file/d/1Y41uuf2PsaDi0SCpHthT3okIMXMuy7e7/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "42":{
         "name":"raj sales corporation",
@@ -465,7 +465,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"15293.00",
         "image":"https://drive.google.com/file/d/1YOLq-V0dggZIM4LpeqL_WMv5r3YPWAwV/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "43":{
         "name":"basant agency",
@@ -476,7 +476,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"2310.00",
         "image":"https://drive.google.com/file/d/1Y7fTKBXfAX1ksr4WGp39GkwGq6I582KY/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "44":{
         "name":"basant agency",
@@ -487,7 +487,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"5464.00",
         "image":"https://drive.google.com/file/d/1Y8uAcOZjQH69z45zYqBZqxm-NPP-iAjc/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "45":{
         "name":"tilok hardware",
@@ -498,7 +498,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"14139.00",
         "image":"https://drive.google.com/file/d/1ZuI7ytfr2VOYL3JYugyIrVcIbShrromk/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "46":{
         "name":"shyam traders",
@@ -509,7 +509,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"1440.00",
         "image":"https://drive.google.com/file/d/1YJ2O5Z6Eup0j0hTdFqjdsfFotpBWLhyA/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "47":{
         "name":"devchan decoline	",
@@ -542,7 +542,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"8250.00",
         "image":"https://drive.google.com/file/d/1YNC1AmkBL51scr4uP-L151fGhF_Dnbrj/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     //MARCH
 
@@ -566,7 +566,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"10909.00",
         "image":"https://drive.google.com/file/d/1YVtHUaEd2GzN0NQGXtdzQzQkvYW9ZAo_/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "52":{
         "name":"new laxmi traders",
@@ -577,7 +577,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"5648.00",
         "image":"https://drive.google.com/file/d/1YWGCa_k_x_p8JowUOeq8w4wvuxSpFTLY/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "53":{
         "name":"welmade locking systems pvt. ltd. pcmc",
@@ -588,7 +588,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"4813.00",
         "image":"https://drive.google.com/file/d/1YWQy1ewp-3F3jiTpbvVlbyjTJmFwibiR/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "54":{
         "name":"raj sales corporation",
@@ -599,7 +599,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"19116.00",
         "image":"https://drive.google.com/file/d/1YZu_i6eNPDmg1oiNYCHKMi-rkonZZpi3/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "55":{
         "name":"nakoda laminate",
@@ -610,7 +610,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"99450.00",
         "image":"https://drive.google.com/file/d/1ZSPOeMlCF-jwhlekCOLlGgD64kLs4GjB/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "56":{
         "name":"karar enterprises",
@@ -621,7 +621,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"9000.00",
         "image":"https://drive.google.com/file/d/1YaTtrUi_BHe4YFD_SOtNcpLbgllCZrmj/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "57":{
         "name":"basant agency",
@@ -632,7 +632,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"32919.00",
         "image":"https://drive.google.com/file/d/1Yc3RApO7zrU0VC3aMGnPbD80A8_1cRqV/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "58":{
         "name":"basant agency",
@@ -643,7 +643,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"9380.00",
         "image":"https://drive.google.com/file/d/1YcLUIB6C69BLS8n_7f8AyQqZqw5_UsTZ/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "59":{
         "name":"new laxmi traders",
@@ -654,7 +654,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"2350.00",
         "image":"https://drive.google.com/file/d/1YiP1OIC7zpsgkCsDhrOGt6FJBDvf2NMF/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "60":{
         "name":"shantaram enterprises",
@@ -665,7 +665,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"11450.00",
         "image":"https://drive.google.com/file/d/1Yl8NTgTSTPEOhzXuy0awFykJ_eCNSwf0/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "61":{
         "name":"new laxmi traders",
@@ -676,7 +676,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"9000.00",
         "image":"https://drive.google.com/file/d/1YlCwuYNhYCJezwsy6EfpbFqf_xv3h3mp/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "62":{
         "name":"gopal enterprises",
@@ -687,7 +687,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"1710.00",
         "image":"https://drive.google.com/file/d/1YltJzz59EiC75ax773bicYuMZmdjFZhU/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "63":{
         "name":"devchan decoline",
@@ -720,7 +720,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"7900.00",
         "image":"https://drive.google.com/file/d/1YznTXdKAwRUcoFXJ5OgQawhvFrdsz-Qa/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "66":{
         "name":"devchan decoline",
@@ -742,7 +742,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"22939.00",
         "image":"https://drive.google.com/file/d/1Z15qJIehIdUX-jZwgHJp9lmJ7kiUTb8E/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "68":{
         "name":"devchan decoline",
@@ -764,7 +764,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"6700.00",
         "image":"https://drive.google.com/file/d/1Z1J5d34Z4osCHuQyDd4h7p-KlWvrO4Qk/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "70":{
         "name":"devchan decoline",
@@ -786,7 +786,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"11087.00",
         "image":"https://drive.google.com/file/d/1Z94MuwLs--qPuSZfVZlC_BfG0HHNhuJW/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "72":{
         "name":"basant agency",
@@ -797,7 +797,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"4900.00",
         "image":"https://drive.google.com/file/d/1ZA888h3klMNtTMi98K_NZMykJ6M5hFao/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "73":{
         "name":"devchan decoline",
@@ -819,7 +819,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"145593.00",
         "image":"https://drive.google.com/file/d/1ZGBIoqYBeLq1DgLh-ssyhFz0G8WuULIc/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "75":{
         "name":"mahalaxmi laminates",
@@ -830,7 +830,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"3000.00",
         "image":"https://drive.google.com/file/d/1ZH5BvoGbMsV-80kjKDIeMvlWeEFgbAIJ/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "76":{
         "name":"devchan decoline",
@@ -852,7 +852,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"38232.00",
         "image":"https://drive.google.com/file/d/1ZMTLqLt9YIEHe1lFUrjcGIClHB-urD-d/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "78":{
         "name":"tilok hardware",
@@ -863,7 +863,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"28025.00",
         "image":"https://drive.google.com/file/d/1ZNR8L6M9-buwLetKwnSkxHpI0WfDJ2u_/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "79":{
         "name":"raj sales corporation",
@@ -874,7 +874,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"22939.00",
         "image":"https://drive.google.com/file/d/1ZO7qsaeD4GiylTVqTE_4UDP8EAStCudp/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
 
     //APRIL
@@ -953,7 +953,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"18712.00",
         "image":"https://drive.google.com/file/d/1b7toWHmG2bO5n6fBFydapdWJ-rJN5G-j/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "87":{
         "name":"rvg facility management services",
@@ -975,7 +975,7 @@ const BILLS = {
         "credit_note":"4200.00",
         "total_amount":"18739.00",
         "image":"https://drive.google.com/file/d/1aysI74xE_ps7hMz1NlUeiDAKKjHtyDpy/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "89":{
         "name":"jinnal sales",
@@ -986,45 +986,290 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"7000.00",
         "image":"https://drive.google.com/file/d/1b8H_h20xL-TxPQq6_gr9J9ZNu0VfYIQ8/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
 
     // MAY
 
     "90":{
-        "name":"",
-        "gstin":"",
-        "invoice_no":"",
-        "date":"",
-        "amt_without":"",
+        "name":"devchan decoline",
+        "gstin":"27ABRFM5919L1ZG",
+        "invoice_no":"588",
+        "date":"03-05-2024",
+        "amt_without":"20550.50",
         "credit_note":"",
-        "total_amount":"",
-        "image":"",
-        "payment_status":""
+        "total_amount":"24250.00",
+        "image":"https://drive.google.com/file/d/1bW73O63jc73REB8yv6nYWb7om8-LOPYp/view?usp=drive_link",
+        "payment_status":"PAID"
     },
     "91":{
-        "name":"",
-        "gstin":"",
-        "invoice_no":"",
-        "date":"",
-        "amt_without":"",
+        "name":"jinnal sales",
+        "gstin":"27BFJPS0195D1ZB",
+        "invoice_no":"4352",
+        "date":"03-05-2024",
+        "amt_without":"3135.60",
         "credit_note":"",
-        "total_amount":"",
-        "image":"",
+        "total_amount":"3700.00",
+        "image":"https://drive.google.com/file/d/1dBmCesd0CC46azmS3VaVmDlHcE-TNRb7/view?usp=drive_link",
         "payment_status":""
     },
     "92":{
-        "name":"",
-        "gstin":"",
-        "invoice_no":"",
-        "date":"",
-        "amt_without":"",
+        "name":"devchan decoline",
+        "gstin":"27ABRFM5919L1ZG",
+        "invoice_no":"672",
+        "date":"07-05-2024",
+        "amt_without":"661.00",
         "credit_note":"",
-        "total_amount":"",
-        "image":"",
-        "payment_status":""
+        "total_amount":"780.00",
+        "image":"https://drive.google.com/file/d/1bY4hhFLOeFeG21Qu1ore8mpOrE9AjlJA/view?usp=drive_link",
+        "payment_status":"PAID"
     },
     "93":{
+        "name":"shree nakoda parshw laminate",
+        "gstin":"27FDMPK2528H1ZB",
+        "invoice_no":"63",
+        "date":"11-05-2024",
+        "amt_without":"29660.75",
+        "credit_note":"",
+        "total_amount":"35000.00",
+        "image":"https://drive.google.com/file/d/1cHHpysXh0UmimFEpKm78f9CkYKx9_Ojj/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "94":{
+        "name":"global enterprises",
+        "gstin":"27AALFG6444P1ZO",
+        "invoice_no":"01798",
+        "date":"13-05-2024",
+        "amt_without":"1550.85",
+        "credit_note":"",
+        "total_amount":"1830.00",
+        "image":"https://drive.google.com/file/d/1bYTyfjyzXq0NJ2n2k33DbblJp7v8qiTr/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "95":{
+        "name":"raj sales corporation",
+        "gstin":"27AZCPS4118A1ZP",
+        "invoice_no":"835",
+        "date":"15-05-2024",
+        "amt_without":"9720.00",
+        "credit_note":"",
+        "total_amount":"11470.00",
+        "image":"https://drive.google.com/file/d/1b_jyrpoS_glrqLp4DQ6TViPxtQjurdMH/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "96":{
+        "name":"basant agency",
+        "gstin":"27ACUPA6609B1ZQ",
+        "invoice_no":"F-1280",
+        "date":"16-05-2024",
+        "amt_without":"18478.00",
+        "credit_note":"396.00",
+        "total_amount":"18082.00",
+        "image":"https://drive.google.com/file/d/1b_pwjehbDD4Ns5AVnuBvbGYx2FSKqg6i/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "97":{
+        "name":"house of innovation",
+        "gstin":"27AAOFH4657C1Z8",
+        "invoice_no":"093",
+        "date":"16-05-2024",
+        "amt_without":"56976.46",
+        "credit_note":"",
+        "total_amount":"67232.00",
+        "image":"https://drive.google.com/file/d/1dCIrlL7yKtgFJgPYAqHAgl64pwxwEqIP/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "98":{
+        "name":"devchan decoline",
+        "gstin":"27ABRFM5919L1ZG",
+        "invoice_no":"879",
+        "date":"17-05-2024",
+        "amt_without":"16440.40",
+        "credit_note":"",
+        "total_amount":"19400.00",
+        "image":"https://drive.google.com/file/d/1bnIrJxOsP0TuS-_S3DCbIu3-Pu0cFjrv/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "99":{
+        "name":"basant agency",
+        "gstin":"27ACUPA6609B1ZQ",
+        "invoice_no":"F-1330",
+        "date":"18-05-2024",
+        "amt_without":"20588.70",
+        "credit_note":"",
+        "total_amount":"24295.00",
+        "image":"https://drive.google.com/file/d/1bofDyDGEYkx2t9IXi7MCyV1LF_tlpOUX/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "100":{
+        "name":"devchan decoline",
+        "gstin":"27ABRFM5919L1ZG",
+        "invoice_no":"921",
+        "date":"20-05-2024",
+        "amt_without":"2779.64",
+        "credit_note":"",
+        "total_amount":"3280.00",
+        "image":"https://drive.google.com/file/d/1bpjv37teZzzmuRJHfX8ZDKdvCbxWJpZ6/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "101":{
+        "name":"raj sales corporation",
+        "gstin":"27AZCPS4118A1ZP",
+        "invoice_no":"984",
+        "date":"21-05-2024",
+        "amt_without":"12960.00",
+        "credit_note":"",
+        "total_amount":"15293.00",
+        "image":"https://drive.google.com/file/d/1bqCYXiyEc4iNybL0pHYLh-S8Ng5YFfoH/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "102":{
+        "name":"raj sales corporation",
+        "gstin":"27AZCPS4118A1ZP",
+        "invoice_no":"1047",
+        "date":"23-05-2024",
+        "amt_without":"19440.00",
+        "credit_note":"",
+        "total_amount":"22939.00",
+        "image":"https://drive.google.com/file/d/1bsP4He_Wd7D9VILzfTg_ykQhM9RV0zHY/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "103":{
+        "name":"raj sales corporation",
+        "gstin":"27AZCPS4118A1ZP",
+        "invoice_no":"1061",
+        "date":"24-05-2024",
+        "amt_without":"9720.00",
+        "credit_note":"",
+        "total_amount":"11470.00",
+        "image":"https://drive.google.com/file/d/1bvJHY2-tiPRjGKoTIPccQUnSbRYYhT0S/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "104":{
+        "name":"karar enterprises",
+        "gstin":"27ACIPD7652B1ZU",
+        "invoice_no":"100",
+        "date":"25-05-2024",
+        "amt_without":"44474.75",
+        "credit_note":"",
+        "total_amount":"52480.00",
+        "image":"https://drive.google.com/file/d/1dC1t88szMvoHGJfOzkAWBw4nb4Xmi-g6/view?usp=drive_link",
+        "payment_status":""
+    },
+    "105":{
+        "name":"devchan decoline",
+        "gstin":"27ABRFM5919L1ZG",
+        "invoice_no":"1065",
+        "date":"28-05-2024",
+        "amt_without":"1389.82",
+        "credit_note":"",
+        "total_amount":"1640.00",
+        "image":"https://drive.google.com/file/d/1bxw7R9HzLhsz1riMaCRiJ96B_Zzj1UTk/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "106":{
+        "name":"basant agency",
+        "gstin":"27ACUPA6609B1ZQ",
+        "invoice_no":"F-1591",
+        "date":"29-05-2024",
+        "amt_without":"10076.28",
+        "credit_note":"",
+        "total_amount":"11890.00",
+        "image":"https://drive.google.com/file/d/1by-HUml-mrgwuOX_zEbTKfujJLf7eG3x/view?usp=drive_link",
+        "payment_status":""
+    },
+    "107":{
+        "name":"basant agency",
+        "gstin":"27ACUPA6609B1ZQ",
+        "invoice_no":"F-1604",
+        "date":"29-05-2024",
+        "amt_without":"9947.15",
+        "credit_note":"",
+        "total_amount":"11738.00",
+        "image":"https://drive.google.com/file/d/1c3Iyk2ujhXFAs20jqtUHlP5QVo___Q39/view?usp=drive_link",
+        "payment_status":""
+    },
+    "108":{
+        "name":"devchan decoline",
+        "gstin":"27ABRFM5919L1ZG",
+        "invoice_no":"1112",
+        "date":"29-05-2024",
+        "amt_without":"694.91",
+        "credit_note":"",
+        "total_amount":"820.00",
+        "image":"https://drive.google.com/file/d/1c4B6jZMg5vRApVUQatARUEwVnKeX9prl/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "109":{
+        "name":"raj sales corporation",
+        "gstin":"27AZCPS4118A1ZP",
+        "invoice_no":"1207",
+        "date":"29-05-2024",
+        "amt_without":"16200.00",
+        "credit_note":"",
+        "total_amount":"19116.00",
+        "image":"https://drive.google.com/file/d/1c51FriczUojv0nBT2j56cdCv71EmYFmq/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "110":{
+        "name":"shyam traders",
+        "gstin":"27ACJPV6026A1ZN",
+        "invoice_no":"1083",
+        "date":"30-05-2024",
+        "amt_without":"12962.09",
+        "credit_note":"",
+        "total_amount":"15295.00",
+        "image":"https://drive.google.com/file/d/1c5l6hbDdCO7sja9-k3isqPqnt4WkDMyT/view?usp=drive_link",
+        "payment_status":""
+    },
+    "111":{
+        "name":"raj sales corporation",
+        "gstin":"27AZCPS4118A1ZP",
+        "invoice_no":"1220",
+        "date":"30-05-2024",
+        "amt_without":"9720.00",
+        "credit_note":"",
+        "total_amount":"11470.00",
+        "image":"https://drive.google.com/file/d/1cB4-nbuKDF20042Thftf428qNScfWqow/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "112":{
+        "name":"devchan decoline",
+        "gstin":"27ABRFM5919L1ZG",
+        "invoice_no":"1156",
+        "date":"31-05-2024",
+        "amt_without":"694.91",
+        "credit_note":"",
+        "total_amount":"820.00",
+        "image":"https://drive.google.com/file/d/1cFxK3TMRLmhzwZK80Au2a_7bV9YEukEW/view?usp=drive_link",
+        "payment_status":"PAID"
+    },
+    "113":{
+        "name":"durva corporation",
+        "gstin":"27DUBPK2304D1Z7",
+        "invoice_no":"130",
+        "date":"31-05-2024",
+        "amt_without":"11834.88",
+        "credit_note":"",
+        "total_amount":"13965.00",
+        "image":"https://drive.google.com/file/d/1cGpqA-YXVNzfxi6LrljBvn8WilY1Y9ul/view?usp=drive_link",
+        "payment_status":""
+    },
+    "114":{
+        "name":"basant agency",
+        "gstin":"27ACUPA6609B1ZQ",
+        "invoice_no":"1736",
+        "date":"31-05-2024",
+        "amt_without":"10105.15",
+        "credit_note":"",
+        "total_amount":"11924.00",
+        "image":"https://drive.google.com/file/d/1dHZQcTUJUT2cDmdP-e2kCdcnnpN2qReF/view?usp=drive_link",
+        "payment_status":" "
+    },
+
+    //JUNE
+
+    "115":{
         "name":"",
         "gstin":"",
         "invoice_no":"",
@@ -1035,4 +1280,5 @@ const BILLS = {
         "image":"",
         "payment_status":""
     },
+    
 }
