@@ -72,14 +72,14 @@ th:last-child {
   width: 100vw;
   background-color: #000000;
   display: grid;
-  grid-template-columns: 60px 1fr;
+  grid-template-columns: 60px 1fr 150px;
   grid-template-rows: 45px;
   align-items: center;
   justify-items: center;
 }
 #myInput{
   border-radius: 20px;
-  width: 99%;
+  width: 100%;
   border: none;
   height: 30px;
   justify-self:auto ;
@@ -89,6 +89,22 @@ th:last-child {
 #myInput:focus{
   border: none;
   outline: none;
+}
+
+#choose{
+  width: 120px;
+  height: 30px;
+  border: none;
+  border-radius: 20px;
+  text-align: center;
+  font-weight: bolder;
+  background-color: #000000;
+  color: white;
+  cursor: pointer;
+  justify-self:start;
+}
+#choose option{
+  text-align: center;
 }
 
 .sidenav {
