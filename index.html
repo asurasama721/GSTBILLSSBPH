@@ -33,6 +33,16 @@
       <div class="sub-container my-nav">
         <span style="font-size: 35px;color: white;cursor: pointer;" class="material-symbols-outlined" onclick="openNav()">menu</span>
         <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..." title="search bill...">
+        <select onclick="myFunction()" id="choose">
+          <option value="1">Name</option>
+          <option value="2">GSTIN</option>
+          <option value="3">Invoice No</option>
+          <option value="4">Date</option>
+          <option value="5">Amt Without</option>
+          <option value="6">Credit Note</option>
+          <option value="7">Total Amt</option>
+          <option value="9">Payment</option>
+        </select>
       </div>
       <div style="overflow-x: auto;margin: 60px 10px 10px 10px;" id="dataTable" class=" table-container"></div>
     </div>
