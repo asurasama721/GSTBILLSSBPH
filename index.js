@@ -75,6 +75,8 @@ for(let i = 0; i < company.length;i++){
     
 
     function myFunction() {
+      let chooseVal = document.getElementById("choose")
+      let choosedVal = parseInt(chooseVal.value);
 
       var input, filter, table, tr, td, i, txtValue;
       input = document.getElementById("myInput");
@@ -82,8 +84,7 @@ for(let i = 0; i < company.length;i++){
       table = document.getElementById("myTable");
       tr = table.getElementsByTagName("tr");
       for (i = 1; i < tr.length; i++) {
-        td = tr[i].getElementsByTagName("td")[1];
-        console.log(td)
+        td = tr[i].getElementsByTagName("td")[choosedVal];
         if (td) {
           txtValue = td.textContent || td.innerText;
           if (txtValue.toUpperCase().indexOf(filter) > -1) {
