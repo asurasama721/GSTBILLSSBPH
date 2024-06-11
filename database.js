@@ -1011,7 +1011,7 @@ const BILLS = {
         "credit_note":"",
         "total_amount":"3700.00",
         "image":"https://drive.google.com/file/d/1dBmCesd0CC46azmS3VaVmDlHcE-TNRb7/view?usp=drive_link",
-        "payment_status":""
+        "payment_status":"PAID"
     },
     "92":{
         "name":"devchan decoline",
