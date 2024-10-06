@@ -43,8 +43,7 @@ for(let i = 0; i < company.length;i++){
           taxTotal += Number(BILLS[company[i]].total_amount)
           
       }
-      console.log(i,"Without Total : ",withoutTotal.toFixed(2));
-      console.log(i,"Tax Total : ", taxTotal.toFixed(2))
+     
       html += `<tr>
       <td></td>
       <td></td>
