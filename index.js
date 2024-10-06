@@ -5,6 +5,9 @@ let ref = 0;
 //seatlist = company
 for(let i = 0; i < company.length;i++){
 
+    let withoutTotal = 0;
+    let taxTotal = 0;
+  
     let html = "<table id='myTable'>"
 
       setTimeout(() => {
@@ -15,7 +18,7 @@ for(let i = 0; i < company.length;i++){
         html += "<td>" + "GSTIN" + "</td>";
         html += "<td>" + "Invoice No" + "</td>";
         html += "<td>" + "Date" + "</td>";
-        html += "<td>" + "Amt Without" + "</td>";
+        html += "<td>" + "Taxable Amt" + "</td>";
         html += "<td>" + "Credit Note" + "</td>";
         html += "<td>" + "Total Amt." + "</td>";
         html += "<td>" + "Image" + "</td>";
@@ -32,13 +35,32 @@ for(let i = 0; i < company.length;i++){
           html += "<td style='text-align:right'>" + BILLS[company[i]].amt_without + "</td>";
           html += "<td style='text-align:right'>" + BILLS[company[i]].credit_note + "</td>";
           html += "<td style='text-align:right'>" + BILLS[company[i]].total_amount + "</td>";
-          html += "<td style='text-align:center;'>" + `<a href='${BILLS[company[i]].image}' class='img-link'><span class="material-symbols-outlined">image</span></a>` + "</td>";
+          html += "<td style='text-align:center;'>" + `<a href='${BILLS[company[i]].image}' class='img-link'  target="_blank"><span class="material-symbols-outlined">image</span></a>` + "</td>";
           html += "<td style='text-align:center;color:green;font-weight:bolder'>" + BILLS[company[i]].payment_status + "</td>";
-          html += "</tr>";        
+          html += "</tr>";
+          
+          withoutTotal += Number(BILLS[company[i]].amt_without)
+          taxTotal += Number(BILLS[company[i]].total_amount)
+          
       }
+      console.log(i,"Without Total : ",withoutTotal.toFixed(2));
+      console.log(i,"Tax Total : ", taxTotal.toFixed(2))
+      html += `<tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>TOTAL</td>
+      <td style='text-align:right'>${withoutTotal.toFixed(2)}</td>
+      <td style="text-align:right;"></td>
+      <td style='text-align:right'>${taxTotal.toFixed(2)}</td>
+      <td></td>
+      <td></td>
+      </tr>`
       showData.innerHTML = html;
       },500);
     }
+    
 
 
     //SEARCH FUNCTION
